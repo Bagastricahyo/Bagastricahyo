@@ -3,7 +3,8 @@ Perkenalkan Saya **Bagas Tricahyo**.\
 Saya seorang **mahasiswa** di **Universitas Brawijaya**.\
 Saya saat ini mempelajari bahasa pemrograman **JavaSript**.\
 Saya telah menyelesaikan kelas web di [Dicoding](https://www.dicoding.com).\
-Jika anda tertarik berkenalan dengan Saya, silakan ikuti akun [LinkedIn](https://https://www.linkedin.com/mwlite/in/r-bagas-tricahyo-2b64b720a).
+Jika anda tertarik berkenalan dengan Saya, silakan ikuti akun [LinkedIn](https://www.linkedin.com/mwlite/in/r-bagas-tricahyo-2b64b720a).
+
 
 <p align="left">
 <a href="https://github.com/Bagastricahyo">
