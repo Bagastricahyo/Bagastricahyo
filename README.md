@@ -1,10 +1,12 @@
-## Halo Semua 👋
-Perkenalkan Saya **Bagas Tricahyo**.\
-Saya seorang **mahasiswa** di **Universitas Brawijaya**.\
-Saya saat ini mempelajari bahasa pemrograman **JavaSript**.\
-Saya telah menyelesaikan kelas web di [Dicoding](https://www.dicoding.com).\
-Jika anda tertarik berkenalan dengan Saya, silakan ikuti akun [LinkedIn](https://www.linkedin.com/mwlite/in/r-bagas-tricahyo-2b64b720a).
+## Hello Everyone👋
 
+### About me
+
+- 🔭 I’m currently working on my project
+- 🌱 I’m currently learning JavaScript programming language
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/mwlite/in/r-bagas-tricahyo-2b64b720a) | [Instagram](https://instagram.com/bagasstc) | [Twitter](https://twitter.com/bagasstc) | [Telegram](https://t.me/bagasstc)
+
+### My github stats
 
 <p align="left">
 <a href="https://github.com/Bagastricahyo">
@@ -13,6 +15,11 @@ Jika anda tertarik berkenalan dengan Saya, silakan ikuti akun [LinkedIn](https:/
 </a>
 </p>
 
+### Certifications
+- Dicoding [Beginner Web Developer](https://www.dicoding.com/certificates/6RPN88DJ5Z2M)
+- Dicoding [Git](https://www.dicoding.com/certificates/L4PQ3G0WOPO1)
+- Dicoding [AWS Cloud](https://www.dicoding.com/certificates/6RPN88DJ5Z2M)
+
 
 
 <!--
@@ -20,12 +27,9 @@ Jika anda tertarik berkenalan dengan Saya, silakan ikuti akun [LinkedIn](https:/
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
