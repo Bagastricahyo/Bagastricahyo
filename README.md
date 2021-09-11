@@ -17,8 +17,8 @@
 
 ### Certifications
 - Dicoding [Beginner Web Developer](https://www.dicoding.com/certificates/6RPN88DJ5Z2M)
-- Dicoding [Git](https://www.dicoding.com/certificates/L4PQ3G0WOPO1)
-- Dicoding [AWS Cloud](https://www.dicoding.com/certificates/6RPN88DJ5Z2M)
+- Dicoding [Learn Git with Github](https://www.dicoding.com/certificates/L4PQ3G0WOPO1)
+- Dicoding [Cloud Practitioner Essentials (Belajar Dasar AWS Cloud)](https://www.dicoding.com/certificates/6RPN88DJ5Z2M)
 
 
 
