@@ -3,8 +3,8 @@
 ### About me
 
 - 🔭 I’m currently working on my project
-- 🌱 I’m currently learning JavaScript programming language
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/mwlite/in/r-bagas-tricahyo-2b64b720a) | [Instagram](https://instagram.com/bagasstc) | [Twitter](https://twitter.com/bagasstc) | [Telegram](https://t.me/bagasstc)
+- 🌱 I’m currently learning <strong>JavaScript programming language and Cloud Computing</strong>
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/mwlite/in/r-bagas-tricahyo-2b64b720a) | [Instagram](https://instagram.com/bagasstc) | [Telegram](https://t.me/bagasstc)
 
 ### My github stats
 
