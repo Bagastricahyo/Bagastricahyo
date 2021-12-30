@@ -2,7 +2,7 @@
 
 ### About me
 
-- 🔭 I’m currently working on my project
+- 🔭 I’m currently working on my course list
 - 🌱 I’m currently learning <strong>JavaScript programming language and Cloud Computing</strong>
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/mwlite/in/r-bagas-tricahyo-2b64b720a) | [Instagram](https://instagram.com/bagasstc) | [Telegram](https://t.me/bagasstc)
 
@@ -14,11 +14,6 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Bagastricahyo&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
-
-### Certifications
-- Dicoding [Beginner Web Developer](https://www.dicoding.com/certificates/6RPN88DJ5Z2M)
-- Dicoding [Learn Git with Github](https://www.dicoding.com/certificates/L4PQ3G0WOPO1)
-- Dicoding [Cloud Practitioner Essentials (Belajar Dasar AWS Cloud)](https://www.dicoding.com/certificates/6RPN88DJ5Z2M)
 
 
 
