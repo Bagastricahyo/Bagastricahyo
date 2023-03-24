@@ -2,9 +2,10 @@
 
 ### About me
 
-- 🔭 I’m currently working on my course list
-- 🌱 I’m currently learning <strong>JavaScript programming language and Cloud Computing</strong>
+- 🔭 I’m currently independent study on Bangkit Academy
+- 🌱 I’m currently learning <strong>JavaScript programming language and Cloud Computing especially Google Cloud Platform</strong>
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/mwlite/in/r-bagas-tricahyo-2b64b720a) | [Instagram](https://instagram.com/bagasstc) | [Telegram](https://t.me/bagasstc)
+- ⚡ Fun fact: I hardly have an impressive portfolio. Let's collaborate with me..
 
 ### My github stats
 
