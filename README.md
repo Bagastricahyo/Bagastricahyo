@@ -2,8 +2,8 @@
 
 ### About me
 
-- 🔭 I’m currently independent study on Bangkit Academy
-- 🌱 I’m currently learning <strong>JavaScript programming language and Cloud Computing especially Google Cloud Platform</strong>
+- 🔭 I’m currently study at my university and also build project
+- 🌱 I’m currently learning for build app using flutter and my enthusiastm on Cloud and Devops pattern
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/mwlite/in/r-bagas-tricahyo-2b64b720a) | [Instagram](https://instagram.com/bagasstc) | [Telegram](https://t.me/bagasstc)
 - ⚡ Fun fact: I hardly have an impressive portfolio. Let's collaborate with me..
 
